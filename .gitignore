@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Env files
+.env
+graph.png
