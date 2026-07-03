@@ -19,3 +19,6 @@ env/
 # Env files
 .env
 graph.png
+
+# RAG vector DB
+chroma_db/
